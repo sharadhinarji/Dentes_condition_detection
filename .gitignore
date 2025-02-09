@@ -1,0 +1,17 @@
+# Ignore Python cache and environment
+__pycache__/
+Lib/
+Scripts/
+
+# Ignore images (if not needed)
+*.jpg
+*.png
+*.jpeg
+
+# Ignore model files and results
+models/
+results/
+utils/
+static/
+others/
+backend/
